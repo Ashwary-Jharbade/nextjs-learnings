@@ -21,6 +21,9 @@ const Route = () => {
             <Link href="/">home</Link>
           </li>
           <li style={liStyle}>
+            <Link href="/classified">/classified</Link>
+          </li>
+          <li style={liStyle}>
             <Link href="/news">/news</Link>
           </li>
           <li style={liStyle}>
